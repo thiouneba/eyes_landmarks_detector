@@ -61,19 +61,19 @@ Results were analyzed and visualized using both **Python** (OpenCV, dlib) and **
 
 The figures below illustrate the predictor's output at various stages of the pipeline — from raw detection to precise landmark localization on diverse input images.
 
-<img src="https://github.com/thiouneEtu/eyes_landmarks_predictor/blob/main/eyesland1.PNG" width="500" />
+<img src="https://github.com/thiouneba/eyes_landmarks_detector/blob/main/eyesland1.PNG" width="500" />
 
-<img src="https://github.com/thiouneEtu/eyes_landmarks_predictor/blob/main/eyesland2.PNG" width="500" />
+<img src="https://github.com/thiouneba/eyes_landmarks_detector/blob/main/eyesland2.PNG" width="500" />
 
-<img src="https://github.com/thiouneEtu/eyes_landmarks_predictor/blob/main/eyesland3.PNG" width="500" />
+<img src="https://github.com/thiouneba/eyes_landmarks_detector/blob/main/eyesland3.PNG" width="500" />
 
-<img src="https://github.com/thiouneEtu/eyes_landmarks_predictor/blob/main/eyesland4.PNG" width="500" />
+<img src="https://github.com/thiouneba/eyes_landmarks_detector/blob/main/eyesland4.PNG" width="500" />
 
-<img src="https://github.com/thiouneEtu/eyes_landmarks_predictor/blob/main/eyesland5.PNG" width="500" />
+<img src="https://github.com/thiouneba/eyes_landmarks_detector/blob/main/eyesland5.PNG" width="500" />
 
-<img src="https://github.com/thiouneEtu/eyes_landmarks_predictor/blob/main/eyesland6.PNG" width="500" />
+<img src="https://github.com/thiouneba/eyes_landmarks_detector/blob/main/eyesland6.PNG" width="500" />
 
-<img src="https://github.com/thiouneEtu/eyes_landmarks_predictor/blob/main/eyesland7.PNG" width="500" />
+<img src="https://github.com/thiouneba/eyes_landmarks_detector/blob/main/eyesland7.PNG" width="500" />
 
 ---
 
