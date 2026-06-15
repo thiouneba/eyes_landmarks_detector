@@ -5,7 +5,7 @@
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=w3c&logoColor=white)
 ![dlib](https://img.shields.io/badge/dlib-008000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-> **Academic context:** This project was completed between October 2022 and March 2023 as a 6-month supervised project (*projet tutoré*) as part of an MSc in Computer Science — Images & Multimedia Data track.
+> **Academic context:** This project was completed between October 2022 and March 2023 as a 6-month supervised project (*projet tutoré*) as part of an MSc in Computer Science — Images & Multimedia Data.
 
 ---
 
